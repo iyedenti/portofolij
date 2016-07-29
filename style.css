@@ -1,0 +1,78 @@
+#wrap {
+	background:url(everest.jpg) no-repeat;
+}
+#header {
+	background-color:rgba (121,180,242,0.3);
+	width:100%;
+}
+#nav {
+	color:black;
+	}
+
+
+ul li {
+	margin-left:150px;
+	display:inline;
+	padding:3px;
+}
+ul li:hover {
+	color:aqua;
+}
+
+button {
+	background-color:blue;
+	width:70px;
+	height:33px;
+	
+}
+
+button a:hover {
+	background-color:aqua;
+	text-decoration:none;
+}
+#feat {
+	background-color:rgba(50,50,50,0.2);
+	width:100%;
+	padding:1px;
+	
+}
+#feat p {
+	color:black;
+}
+#feat h2 {
+	color:black;
+	text-align:center;
+}
+#feed h3 {
+	text-align:center;
+}
+#feat h3 {
+	color:black;
+	text-align:center;
+}
+#feed img {
+	border-radius:50%;
+	height:50px;
+	width:50px;
+	display:inline;
+	float:left;
+	margin-left:5px;
+}
+#name  {
+	float:left;
+	margin-left:20px;
+	}
+#company {
+	float:left;
+	margin-left:-75px;
+	}
+#work h2 {
+	text-align:center;
+	}
+#work a:hover {
+	color:red;
+	}	
+#cntcall form {
+	margin-left:500px;
+	margin-top:-142px;
+}
